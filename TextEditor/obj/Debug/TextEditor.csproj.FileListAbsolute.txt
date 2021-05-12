@@ -1,0 +1,11 @@
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\bin\Debug\TextEditor.exe.config
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\bin\Debug\TextEditor.exe
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\bin\Debug\TextEditor.pdb
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.csprojAssemblyReference.cache
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.exe
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.pdb
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.AboutProgram.resources
+D:\downloads\TextEditor-master\TextEditor-master\TextEditor\obj\Debug\TextEditor.TextEditor.resources
